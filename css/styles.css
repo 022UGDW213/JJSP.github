@@ -56,3 +56,22 @@
     margin-bottom: 30px;
 
 }
+.btn
+{
+    font-size: 18px;
+    color: #fff;
+    margin: 5px;
+    padding: 7px 22px;
+    text-decoration: none;
+    border: 1px solid coral;
+    border-radius: 25px;
+}
+.btn-subscribe
+{
+    background: coral;
+}
+.btn-comment:hover
+{
+    background: coral;
+    transition: .6s;
+}
